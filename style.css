@@ -1,0 +1,52 @@
+#left-column {
+	background-color: pink;
+	float: left;
+	width: 33.333%;
+	padding: 10px;
+	box-sizing: border-box;
+	font-family: helvetica;
+	margin-top: 75px;
+}
+
+#middle-column {
+	background-color: lightblue;
+	float: left;
+	width: 33.333%;
+	padding: 10px;
+	box-sizing: border-box;
+	font-family: helvetica;
+	margin-top: 75px;
+}
+
+#right-column {
+	background-color: lightyellow;
+	float: left;
+	width: 33.333%;
+	padding: 10px;
+	box-sizing:border-box;
+	font-family: helvetica;
+	margin-top: 75px; 
+
+}
+
+.facebook {
+	font-family: helvetica;
+	font-size: 30px;
+	background-color: gray;
+	position: fixed;
+}
+
+.twitter {
+	font-family: helvetica; 
+	font-size: 30px; 
+	background-color: gray; 
+	position: fixed;
+	top: 50px;
+	left:20px;
+}
+
+.nav{	
+
+	background-color: blue; 
+
+}

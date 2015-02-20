@@ -1,0 +1,43 @@
+
+#first-column {
+	background-color: lightblue;
+	float: left;
+	width: 33.333%;
+	padding: 50px;
+	margin-top: 50px;
+}
+
+#second-column {
+	background-color: lightyellow;
+	float: left;
+	width: 33.333%;
+	padding: 50px;
+	margin-top: 50px;
+}
+
+.facebook {
+	font-size: 20px;
+	font-family: tahoma;
+	background-color: grey;
+	position: fixed;
+	margin-left: 100px;
+	padding: 10px;
+	text-decoration: none;
+
+}
+
+.twitter {
+	font-size: 20px;
+	font-family: helvetica;
+	background-color: grey;
+	position:fixed;
+	padding: 10px;
+	text-decoration: none;
+}
+
+nav{
+	background-color: lightblue;
+	text-decoration: none;
+	font-size: 25px;
+	padding: 10px;
+}
